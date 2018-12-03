@@ -1,0 +1,14 @@
+h1 {
+    height: 200px;
+    background-color: rgb(67, 143, 187);
+    background-image: linear-gradient(blue, rgb(23, 172, 164));
+    border: 2px solid darkblue;
+    text-align: center;
+}
+
+h2 {
+    font-style: italic;
+    background-color: rgb(116, 215, 228);
+    font: black;
+    text-align: center;
+}
